@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-tasks-list/static/css/main.aaaf48ca.css",
+    "main.js": "/redux-tasks-list/static/js/main.612401de.js",
+    "index.html": "/redux-tasks-list/index.html",
+    "main.aaaf48ca.css.map": "/redux-tasks-list/static/css/main.aaaf48ca.css.map",
+    "main.612401de.js.map": "/redux-tasks-list/static/js/main.612401de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaaf48ca.css",
+    "static/js/main.612401de.js"
+  ]
+}
